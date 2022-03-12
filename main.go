@@ -30,5 +30,7 @@ func main() {
 
 	// 5. Package array modular
 	// array.TestArray()
-	array.TestSlice()
+	// array.TestSlice()
+	// array.TestMap()
+	array.SliceOfMap()
 }
